@@ -22,3 +22,4 @@ false && echo "Oops, fail"
 
 false ; echo "Will always run!"
 
+# foobar
